@@ -1,2 +1,0 @@
-# VScode.Alurafix
-VScode.Aluradix
